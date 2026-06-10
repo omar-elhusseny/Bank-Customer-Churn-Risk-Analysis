@@ -178,4 +178,4 @@ psql -d your_database -f analysis/05_dashboard_views.sql
 
 ## Author
 
-Built as a portfolio project by a junior data analyst learning PostgreSQL through real-world business problems. See `insights/findings.md` for the full business narrative and recommendations.
+Built as a portfolio project by [Omar Walid](https://www.linkedin.com/in/omar-walid-904236228/) practicing PostgreSQL through real-world business problems. See `insights/findings.md` for the full business narrative and recommendations.
